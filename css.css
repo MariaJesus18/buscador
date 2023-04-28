@@ -1,0 +1,75 @@
+/* css home start */
+.coala{
+    
+    width: 550px;
+    height: 420px;
+    opacity: 0.4;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    
+}
+.buscador{
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+}
+
+.enccontre{
+    margin-top: 30%;
+    width: 300px;
+    height: 35px;
+    display: block;
+    margin-left: 10%;
+}
+
+.rodape {
+    margin-top: 100px;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%);
+    position: absolute;
+    color: black;
+}
+.rodape a{
+    color: black;
+}
+input {
+    margin-top: 15px;
+    width: 340px;
+    height: 30px;
+    border-radius: 50px;
+}
+.search {
+    background-color: white;
+    border: none;
+    position: absolute;
+    margin-top: 25px;
+    left: 7px;
+  
+}
+.buscador input{
+    padding-left: 30px ;
+}
+.imagem {
+   
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
+.anuncios{
+   top: 60%;
+    left: 50%;
+    transform: translate(-50%);
+    position: absolute;
+}
+/* end css home */
+
+
+
+
+
+
+  
